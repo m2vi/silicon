@@ -46,3 +46,6 @@ yarn-error.log*
 
 # code
 .dccache
+
+# extra
+package-lock.json
